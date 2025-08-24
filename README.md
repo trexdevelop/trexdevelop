@@ -1,14 +1,13 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasWessel.LucasWessel" />
 </div>
-<div align="center">
+
 ### ✍️ Random 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=trexdevelop&icon=0&color=0)](https://visitcount.itsvg.in)
 >
-
 # 💫 About Me:
 I study software developing <br>
 Germany
