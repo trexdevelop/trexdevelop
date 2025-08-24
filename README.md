@@ -13,12 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2twd2RwcDlwc3c2cXZwazNkanhoazk0a3p2MDc0M2dxcnNlMG16ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" alt="Software Development GIF" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2twd2RwcDlwc3c2cXZwazNkanhoazk0a3p2MDc0M2dxcnNlMG16ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" 
+       alt="Software Development GIF" width="400" style="border-radius:12px;"/>
 </p>
 
 ---
 
 ## 🛠 Languages & Tools
+
+<div align="center">
 
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -44,5 +47,6 @@
 
 ## 🔥 My Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasWessel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=LucasWessel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
+       height="220" alt="GitHub Streak Stats" style="border-radius:12px;"/>
 </p>
