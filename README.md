@@ -17,7 +17,6 @@
        alt="Software Development GIF" width="400" style="border-radius:12px;"/>
 </p>
 
----
 
 ## 🛠 Languages & Tools
 
