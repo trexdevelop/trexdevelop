@@ -4,7 +4,7 @@
 
 # <div align="center">Hey there 👋</div>
 
----
+
 
 ## 👩‍💻 About Me
 <p align="center">
@@ -18,10 +18,10 @@
 </p>
 
 
+
 ## 🛠 Languages & Tools
 
 <div align="center">
-
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -41,8 +41,6 @@
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
-
----
 
 ## 🔥 My Stats
 <p align="center">
