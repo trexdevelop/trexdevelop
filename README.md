@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Software Development GIF" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2twd2RwcDlwc3c2cXZwazNkanhoazk0a3p2MDc0M2dxcnNlMG16ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" alt="Software Development GIF" width="400" />
 </p>
 
 ---
