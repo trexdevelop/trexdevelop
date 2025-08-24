@@ -4,15 +4,12 @@
 
 # <div align="center">Hey there 👋</div>
 
----
-
 ## 👩‍💻 About Me
 <p align="center">
   I'm Lucas from Germany<br>
   🔭 I study Software Development
 </p>
 
----
 
 ## 🛠 Languages & Tools
 <p align="center">
@@ -35,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </p>
-
----
 
 ## 🔥 My Stats
 <p align="center">
