@@ -20,18 +20,6 @@
 
 ## 🛠 Languages & Tools
 
-<div align="center">
-  <style>
-    .tool-icon {
-      transition: transform 0.3s ease;
-      margin: 0 6px;
-      vertical-align: middle;
-    }
-    .tool-icon:hover {
-      transform: scale(1.3);
-    }
-  </style>
-
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img class="tool-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
