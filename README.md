@@ -44,10 +44,5 @@
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trexdevelop&theme=transparent&exclude=None)  
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trexdevelop&theme=transparent)  
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trexdevelop&theme=transparent)  
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trexdevelop&theme=transparent&exclude=None)  
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trexdevelop&theme=transparent&exclude=None)  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trexdevelop&theme=transparent)  
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trexdevelop&theme=transparent&utcOffset=2)
 
 
