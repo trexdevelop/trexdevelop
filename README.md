@@ -40,7 +40,8 @@
 
 ## 🔥 My Stats
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trexdevelop=transparent) ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trexdevelop&theme=transparent&exclude=None)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trexdevelop=transparent) 
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trexdevelop&theme=transparent&exclude=None)
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trexdevelop&theme=transparent)
 
 ![](https://github-readme-stats.vercel.app/api?username=trexdevelop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
